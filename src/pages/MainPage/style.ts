@@ -3,7 +3,7 @@ import { mainImg } from '../../const/image';
 
 export const StyledMainPage = styled.div`
   .main-page {
-    background: url(${mainImg.cafe}) no-repeat 0 50%;
+    background: url(${mainImg.cafe}) no-repeat 50% 50%;
     background-attachment: fixed;
     background-size: cover;
     .main-visual {
